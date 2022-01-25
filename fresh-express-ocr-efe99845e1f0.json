@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fresh-express-ocr",
+  "private_key_id": "efe99845e1f0b4e70ebbef2eed7a3d483d23bfeb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCYdFZpGLsBZNsA\njSZGfMqDFLqoR9DXVFl5IroKN3WJc+GJN9Zi5KuR51DDemsF4pZarb9wxelPE8Rj\nmh+1yL8oFTy/739K4y7RlAdUnYjeoCdrRh89TcUEZheCQZxxnOq3IOt+gvbYvtEL\n9KXbYDqSPa9jBVy/QVAD6hDbxv49UdoJt8wqgooTcB/yPY5aolbOTx6CXd067gCJ\ncgDLe6ttdev6htrxp2iJt3DOTvVAUtxzFMCwJBWIvglK67E/YSe4WwS/qUmgeKDw\n4AGon5gWjnFAtc2sUx6E5IbX1fOTxMGGSzfZllYmVRjvKkmot+zaLS3s22b9hCWD\nWG+8tHcRAgMBAAECggEACw0MfM1JXveUhW913xBULgNzvVeJV1aFWX8k17E/S0xT\nr1qVZzFBZjqLiO6dMT3EctnF4bLtmikUvbiSGbSty0YbfiPqSP97U79PIbkn+aVH\n04zvc5uTz2FmzQRxsULz46br/c1t/yD5LndDNN9T7OkHnIiquVq5ZgiSmhp3BZ2b\nlAd8tiaXhyd4jbNFoVBP2P3M1CEzmsRArCxoO2vdY4FHjeFQ2KRXaTksA6k0BkJG\nqhXqXKIGuTt4EuBgJwVw5aj7S9/GaA1USRwtZ3QFoFqwvL6XqSXn+EZjJ7DUoKXm\ndQ775UzDchHUO6w7wPy/c1p30VSEjR2wR7HNrzkOjQKBgQDHbYs0AKItZhDzkDdm\n17kJ9vOki6ywUjK5ZopyOxwwzhk/S/GXg5IbVyNtJ6T8s9Bi5oSZO4vFe76XujaH\nDtSDgATKZnT+a8ghO5DJB30FmpHQv3ybKecWWfYFrWHcHpTHJiRxXy/EWW5D1mGY\nq2HPoBb2yOoEQu4U+3j404EuHQKBgQDDs5SgOvqAaOXjEDoOx/VnH07XIq+E60o6\ndpDmoYEQ5qo2PHtiiOMNccaGq8j6XqAuJiq4t52Iu0wsO6lW3AZ7gIyIEmaBwkbZ\n2S7XuPrjZ2zG1Ou8/SzvoBi78dA3+vsrxVDsOrt1AG90M43/aElHVumOLRTRqe9w\nauBo2WXqhQKBgFcch4jAmhbAlbj+juSyaFZs88I1bMpcLWIE44bAQTEkZazbbH1l\ncGXW61eb0Jq9pNH+pX8Vnpk102wNYBIgrT1/pxgOJx6XUAUMMtNNHRRcj0Mi0bgp\nVpLR2wBh2vQ+u3g+Nf77uC7JbbveIiWA/ymlYUKNQoN4BO1PZ2kxYiUVAoGBAKeR\nuQ2J8rzJFS7b0hqd9O8by7JCrO+vWJu+skwIti72k4BlQXEZrPDyHv9pUGmxZI6f\nd60669UMKykk3NbXB2XwqGRK/SLWazxVztpANfNJt8Z4wnHMhxGXkBY99AA7E55j\nEet0TtbcTJK/IjMz5KsFLG7lAxKT48XqfcTJgY7RAoGAVaRDUUCg1tuQJNXS3JIG\n2uFfuMf4xm7jkYToHVWxlU62hTGY0YG69M8n8lNJgW2tmYPsdqYSgFkgLdduPQ/T\nrMg/XRLd9Ao1DKUeuk9yyp7NMFwp58XmAEk5oUYCsmE8OT0R4iVhS0C5nEiV/Rpb\nuv1YJJ7ls7ftKFPX6lSiXKY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "visionapi-serviceaccount@fresh-express-ocr.iam.gserviceaccount.com",
+  "client_id": "103540725037612038168",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/visionapi-serviceaccount%40fresh-express-ocr.iam.gserviceaccount.com"
+}
